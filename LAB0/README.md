@@ -2,7 +2,7 @@
 
 ## Sistemas operativos - 2023
 
-Según Wikipedia, el Shell *es el programa informático que provee una interfaz de usuario apra acceder a los servicios del sistema operativo*. Comenzaremos la materia familiarizandonos con esta herramienta, que usarán el resto de sus carreras, y con las llamadas de sistema más comunes que pueden acceder.
+Según Wikipedia, el Shell *es el programa informático que provee una interfaz de usuario para acceder a los servicios del sistema operativo*. Comenzaremos la materia familiarizandonos con esta herramienta, que usarán el resto de sus carreras, y con las llamadas de sistema más comunes que pueden acceder.
 Este práctico consiste de una serie de ejercicios que se resuelven con **una** línea de comando ejecutada en la consola. Necesitaran descargar los archivos de datos dados en sus computadoras para comprobar si el comando que proponen funciona correctamente.
 Tendrán que **investigar por su cuenta** cómo funcionan los distintos comandos (como `grep`, `cat`, `sort`, `head`), pipes `|` y redirecciones `>` `<`. Les dejamos un pequeno machete como ayuda (*Bite_Size_Linux.pdf*). Otro recurso que les puede ser de utilidad es el sitio explainshell.com, para comandos que encuentren online y que no sepan que hacen.
 
